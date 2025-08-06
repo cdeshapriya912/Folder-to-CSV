@@ -1,0 +1,4 @@
+([('FolderToCSV',
+   '/Users/chinthaka/Library/CloudStorage/OneDrive-PandaRetailCompany/Documents/Chinthaka/CXR/Files '
+   'Gen/File List Python Code/dist/FolderToCSV',
+   'EXECUTABLE')],)
